@@ -25,12 +25,6 @@ A brief description of the project. Built with **Python/Java/Solidity**, featuri
 ### [🔗 Another Project](https://github.com/yourusername/another-project)
 A Solidity-based decentralized application that allows users to interact with smart contracts.
 
-## 📫 Connect With Me
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
